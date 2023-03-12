@@ -1,7 +1,7 @@
 <div align="center">
   <img width="100px" src="https://logospng.org/download/react/logo-react-512.png" /> 
 </div>
-<h1 align="center">Curso de React [Matheus B. - Hora de Codar] - Youtube</h1>
+<h1 align="center">Curso de React [Matheus B. - Hora de Codar]</h1>
 Nome da aula: Curso React: Entendendo o JSX - #03 <br/>
 Link da aula: https://www.youtube.com/watch?v=9iKNxnFJY_Q&list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO&index=3
 <br/>
