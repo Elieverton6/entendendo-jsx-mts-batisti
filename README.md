@@ -1,12 +1,10 @@
 <div align="center">
   <img width="100px" src="https://logospng.org/download/react/logo-react-512.png" /> 
 </div>
-
 <h1 align="center">Curso React: Entendendo o JSX - #03</h1>
-
 Nome da aula: Curso React: Entendendo o JSX - #03 <br/>
 Link da aula: https://www.youtube.com/watch?v=9iKNxnFJY_Q&list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO&index=3
-
+<br/>
 <br/>
 <h2 align="center">Para rodar este projeto React em sua máquina, siga os passos abaixo:</h2>
 
