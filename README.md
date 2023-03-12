@@ -1,12 +1,9 @@
 <div align="center">
   <img width="100px" src="https://logospng.org/download/react/logo-react-512.png" /> 
 </div>
-<h1 align="center">Curso de React [Matheus B. - Hora de Codar]</h1>
-Nome da aula: Curso React: Entendendo o JSX - #03 <br/>
-Link da aula: https://www.youtube.com/watch?v=9iKNxnFJY_Q&list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO&index=3
+<h1 align="center">Conteúdo da aula de: Entendendo o JSX - #03 </h1>
 <br/>
-<br/>
-<h2 align="center">Para rodar este projeto React em sua máquina, siga os passos abaixo:</h2>
+Para rodar este projeto React em sua máquina, siga os passos abaixo:
 
 1. Faça o download deste repositório em sua máquina através do comando "git clone [url do repositório]".
 
